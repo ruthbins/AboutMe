@@ -361,8 +361,8 @@
 
 }
 .portfolio__img {
-  transition: transform 750ms cubic-bezier(.5, 0, .5, 1),
-  opacity 250ms linear;
+  transition: transform 750ms cubic-bezier(.5, 0, .5, 1);
+  opacity: 250ms linear;
   width: 100%;
   height: 100%;
   object-fit: cover;
